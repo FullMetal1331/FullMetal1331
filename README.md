@@ -1,8 +1,8 @@
 ##### Howdy!
 I'm a competitive coder and developer. I've worked with many frameworks/libraries/SDK's like ExpressJS, ReactJS, TensorFlow, Flutter, etc. while working on various group as well as solo projects.
-##🔭 I’m currently working on My Schedule Mobile App
-##🌱 I’m currently learning Flutter SDK
-##📫 How to reach me: Mail me at sakshamtewari8@gmail.com or contact me on [LinkedIn](https://www.linkedin.com/in/saksham-tewari-62ba6a152/)
+* ## 🔭 I’m currently working on My Schedule Mobile App
+* ## 🌱 I’m currently learning Flutter SDK
+* ## 📫 How to reach me: Mail me at sakshamtewari8@gmail.com or contact me on [LinkedIn](https://www.linkedin.com/in/saksham-tewari-62ba6a152/)
 <!--
 **FullMetal1331/FullMetal1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
